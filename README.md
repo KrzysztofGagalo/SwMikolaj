@@ -1,2 +1,3 @@
 # SwMikolaj
-Kolejka komunikatów
+Kolejka komunikatów IPC
+Zarządznie procesami (fork)
