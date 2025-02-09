@@ -1,0 +1,2 @@
+# SwMikolaj
+Kolejka komunikatów
